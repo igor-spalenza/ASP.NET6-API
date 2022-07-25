@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET6-API", "ASP.NET6-API.csproj", "{5FF3481B-172F-4B1A-8792-24C37FFC1DE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Tester", "API-Tester\API-Tester.csproj", "{223AE23E-E475-414A-A330-2AB0BADC6FB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5FF3481B-172F-4B1A-8792-24C37FFC1DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FF3481B-172F-4B1A-8792-24C37FFC1DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FF3481B-172F-4B1A-8792-24C37FFC1DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223AE23E-E475-414A-A330-2AB0BADC6FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223AE23E-E475-414A-A330-2AB0BADC6FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223AE23E-E475-414A-A330-2AB0BADC6FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223AE23E-E475-414A-A330-2AB0BADC6FB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
